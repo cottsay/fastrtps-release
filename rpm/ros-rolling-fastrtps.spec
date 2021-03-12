@@ -19,6 +19,7 @@ Requires:       ros-rolling-foonathan-memory-vendor
 Requires:       tinyxml2-devel
 Requires:       ros-rolling-ros-workspace
 BuildRequires:  cmake3
+BuildRequires:  openssl-devel
 BuildRequires:  ros-rolling-fastcdr
 BuildRequires:  ros-rolling-foonathan-memory-vendor
 BuildRequires:  tinyxml2-devel
